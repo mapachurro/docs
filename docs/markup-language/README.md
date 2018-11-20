@@ -265,6 +265,14 @@ We also recognize that in some instances a variable will need to be displayed in
 
 To center text such as titles and headings, add `\centered` before the relevant text. You can also apply other formatting to the centered language. For example, `\centered**Agreement Title**` will center and bold the relevant text.
 
+### Right
+
+To right-align text, add `\right` before the text to be aligned to the right margin of the page. Like with centered text other formatting can be used in the right aligned text.
+
+### Right 3/4"
+
+By specifying the `\right-three-quarters` tag instead, the text will be right-aligned and inset 3/4" from the margin.
+
 ### Page Break
 
 If you would like to add a page break, such as separating an exhibit from the main body of the agreement, you can simply add `\pagebreak` where the break should be.
